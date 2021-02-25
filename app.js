@@ -1,8 +1,3 @@
-// Identification
-// Nom : YAHYANI
-// Prénom : MOHAMED
-// Code permanent : YAHM14059203
-
 window.onload = function() {
     const form = document.querySelector('form');
 
